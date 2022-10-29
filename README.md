@@ -36,14 +36,27 @@ Första uppgiften blir att klona detta repository till din dator, skapa en egen 
 # Frågor
 
 1. Vilket kommand gör du med git för att checka ut en ny branch som heter `feature/jon-is-cool`?
+    
+    git checkout -b feature/jon-is-cool
 
 2. Vad skulle detta Java program skriva ut om man startade det?
 
+    Strängen "Hello World!"
+
 3. Om man vill lägga till ett nytt bibliotek (dependency) i ett Java program, var lägger man det då?
+
+   I pom.xml filen!
 
 4. Vad gör filen `.gitignore`?
 
+   .gitignore filen är där man lägger till vilka filer som ska ignoreras när man gör en commit till git
+
 5. Vad är skillnaden på mappen `main` och `test` i ett Java program?
+
+   Mappen "main" är mappen där all kod och själva applicationen är. 
+   "test" mappen är där man ska skriva sina tester som man anväder för att testa att koden
+   i "main" fungerar som den ska.
+   
 
 # Tips
 
