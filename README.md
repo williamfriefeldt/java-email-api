@@ -43,7 +43,7 @@ Första uppgiften blir att klona detta repository till din dator, skapa en egen 
 
 4. Vad gör filen `.gitignore`?
 
-5. Vad är skillnaden på filen `main` och `test` i ett Java program?
+5. Vad är skillnaden på mappen `main` och `test` i ett Java program?
 
 # Tips
 
